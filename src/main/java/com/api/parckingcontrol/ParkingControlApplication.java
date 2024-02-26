@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ParckingControlApplication {
+public class ParkingControlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ParckingControlApplication.class, args);
+		SpringApplication.run(ParkingControlApplication.class, args);
 	}
 
 }
